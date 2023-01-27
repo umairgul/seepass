@@ -1,6 +1,5 @@
 function showPassword() {
   passFields = document.querySelectorAll("input[type=password]");
-  console.log(passFields);
   passFields.forEach((element) => {
     element.type = "text";
   });

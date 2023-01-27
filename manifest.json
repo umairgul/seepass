@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "See password fields as plain text in one-click",
-  "description": "Base Level Extension",
+  "name": "SeePass",
+  "description": "See password fields as plain text in one-click",
   "version": "1.0",
   "action": {
     "default_icon": "icon.png"
